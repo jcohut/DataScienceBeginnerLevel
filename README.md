@@ -1,2 +1,2 @@
 # DataScienceBeginnerLevel
-All stuff for learning Data Science at beginner level
+All stuff for learning Data Science at beginner level.
